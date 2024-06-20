@@ -13,10 +13,10 @@
 	"weekBackground": "philly",
 
 	"storyName": "PICO",
-	"weekBefore": "week2",
+	"weekBefore": "",
 	"weekName": "Week 3",
 	"startUnlocked": true,
 
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideStoryMode": true,
+	"hideFreeplay": true 
 }
