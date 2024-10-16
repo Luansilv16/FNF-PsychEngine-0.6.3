@@ -26,17 +26,17 @@
     {
       "name": "flixel-addons",
       "type": "haxelib",
-      "version": "2.11.0"
+      "version": "3.2.1"
     },
     {
       "name": "flixel-ui",
       "type": "haxelib",
-      "version": "2.4.0"
+      "version": "2.5.0"
     },
     {
       "name": "hscript",
       "type": "haxelib",
-      "version": "2.4.0"
+      "version": "2.5.0"
     },
     {
       "name": "hxCodec",
